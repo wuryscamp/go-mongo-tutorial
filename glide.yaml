@@ -1,0 +1,3 @@
+package: github.com/wuryscamp/go-mongo-tutorial
+import:
+- package: gopkg.in/mgo.v2
